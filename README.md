@@ -12,7 +12,7 @@
 - 各記事の末尾に、その知識から着想できるアプリ案が数個ついています。
 - 追加の読み物が欲しくなったら「〇〇の分野の読み物を追加して」と伝えてください（サブエージェント並列で量産します）。
 
-## 記事一覧（全188本）
+## 記事一覧（全214本）
 
 > 📂 **1〜40**: 幅広い10分野（視野を広げる素材）／**41〜60**: ゲーム企画とUX／**61〜66**: カルト的人気ゲーム分析／**67〜106**: さらに幅広い10分野（掛け合わせの素材）／**107〜110**: ゲーム音楽／**111〜145**: UX体系シリーズ（35本）／**146〜159**: アイデア創出法シリーズ（14本）／**160〜188**: ゲーム開発シリーズ（29本・設計から技術・運営まで）
 
@@ -321,6 +321,48 @@ UX（ユーザーエクスペリエンス）の知識を体系的に網羅した
 - [186 プレイテスト：作り手は自分のゲームの難しさに気づけない](./articles/186-playtesting.md)
 - [187 収益化モデル：買い切り・F2P・ガチャ・広告・サブスクの向き不向き](./articles/187-monetization-models.md)
 - [188 リテンション：毎日戻ってくる設計（ログボ・デイリー）とその功罪](./articles/188-retention-daily-rewards.md)
+
+---
+
+## ✍️ 物語の作り方シリーズ（189–214・構造からキャラ・技術・創作プロセスまで全26本）
+
+物語・ストーリーテリングの作り方を体系的に。「どうやって物語を作っていくのか」を土台→骨組み→肉付けの順で学ぶ。
+
+### 🏗 構造・骨組み
+- [189 物語の正体：物語とは「変化」である](./articles/189-story-is-change.md)
+- [190 ログライン：物語を一行に凝縮する](./articles/190-logline.md)
+- [191 三幕構成：ハリウッドの黄金比](./articles/191-three-act-structure.md)
+- [192 起承転結：対立に頼らない東洋の四拍子](./articles/192-kishotenketsu.md)
+- [193 ヒーローズジャーニー：英雄の旅という普遍構造](./articles/193-heros-journey.md)
+- [194 Save the Cat：15のビートで物語を組む](./articles/194-save-the-cat-beats.md)
+- [195 ミッドポイント：物語の折り返し点](./articles/195-midpoint.md)
+- [196 葛藤とは何か：主人公を邪魔する3つの方向](./articles/196-conflict-three-directions.md)
+- [197 伏線：セットアップとペイオフ](./articles/197-setup-and-payoff.md)
+
+### 🎭 キャラクター
+- [198 WantとNeed：キャラを動かす二重の欲求](./articles/198-want-vs-need.md)
+- [199 キャラクターアーク：人はどう変わるか](./articles/199-character-arc.md)
+- [200 アンタゴニスト：魅力的な敵役の作り方](./articles/200-antagonist.md)
+- [201 欠点と弱さ：完璧なキャラはつまらない](./articles/201-character-flaws.md)
+- [202 動機とバックストーリー：行動の裏側](./articles/202-motivation-backstory.md)
+
+### 🖋 シーン・文章技術
+- [203 Show, don't tell：見せろ、語るな](./articles/203-show-dont-tell.md)
+- [204 シーンの設計：目的・障害・結果](./articles/204-scene-design.md)
+- [205 視点(POV)：誰の目で語るか](./articles/205-point-of-view.md)
+- [206 対話の技術：セリフは情報でなく駆け引き](./articles/206-dialogue.md)
+- [207 ペーシング：緊張と緩和のリズム](./articles/207-pacing.md)
+
+### 🌍 世界観・テーマ
+- [208 世界観構築：氷山理論と設定の8割](./articles/208-worldbuilding-iceberg.md)
+- [209 テーマ：物語は「問い」を投げる](./articles/209-theme.md)
+- [210 サブプロット：脇筋が主筋を照らす](./articles/210-subplot.md)
+
+### ✏️ 創作プロセス
+- [211 アイデアの発想：What if の魔法](./articles/211-what-if-ideation.md)
+- [212 プロッターとパンツァー：設計するか、書きながら発見するか](./articles/212-plotter-vs-pantser.md)
+- [213 初稿と改稿：ひどい初稿を書く勇気](./articles/213-first-draft-revision.md)
+- [214 スランプの突破：書けない時どうするか](./articles/214-overcoming-writers-block.md)
 
 ---
 
