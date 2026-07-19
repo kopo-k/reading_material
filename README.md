@@ -12,7 +12,7 @@
 - 各記事の末尾に、その知識から着想できるアプリ案が数個ついています。
 - 追加の読み物が欲しくなったら「〇〇の分野の読み物を追加して」と伝えてください（サブエージェント並列で量産します）。
 
-## 記事一覧（全244本）
+## 記事一覧（全274本）
 
 > 📂 **1〜40**: 幅広い10分野（視野を広げる素材）／**41〜60**: ゲーム企画とUX／**61〜66**: カルト的人気ゲーム分析／**67〜106**: さらに幅広い10分野（掛け合わせの素材）／**107〜110**: ゲーム音楽／**111〜145**: UX体系シリーズ（35本）／**146〜159**: アイデア創出法シリーズ（14本）／**160〜188**: ゲーム開発シリーズ（29本・設計から技術・運営まで）
 
@@ -409,6 +409,52 @@ UX（ユーザーエクスペリエンス）の知識を体系的に網羅した
 - [242 「99%の失敗に支えられた1%」— 本田宗一郎が失敗を愛した理由](./articles/242-honda-failure.md)
 - [243 「Stay hungry, stay foolish」— 実はジョブズの言葉ではない](./articles/243-jobs-stay-hungry.md)
 - [244 なぜ偽名言は広まるのか — 有名人という「名言の磁石」](./articles/244-misattributed-quotes.md)
+
+---
+
+## 🌍 ワールドビルディングの教養シリーズ（245–274・ゲーム世界に説得力を宿す全30本）
+
+「なぜ植物はそこに生えるのか」「なぜ町はそこにあるのか」を現実のロジックから学び、ゲームのワールド制作に活かす。〈知的好奇心を刺激する現実の話〉＋〈制作への応用〉の二段構え。
+
+### 🌱 植生・自然の配置ロジック
+- [245 植生遷移：裸地が森になるまでの数百年](./articles/245-plant-succession.md)
+- [246 バイオームと気候：地球の植生地図はこう決まる](./articles/246-biomes-climate.md)
+- [247 標高と植生帯：登ると別世界になる理由](./articles/247-altitude-vegetation.md)
+- [248 河畔林と湿地：水辺に植物が集まる理由](./articles/248-riparian-wetland.md)
+- [249 森の階層構造：林冠・低木・林床の三層社会](./articles/249-forest-layers.md)
+- [250 パイオニア種と極相林：荒れ地に最初に来るのは誰か](./articles/250-pioneer-climax.md)
+
+### ⛰ 地形・地質の成り立ち
+- [251 なぜ谷にはV字とU字があるのか：川と氷河の彫刻](./articles/251-valley-shapes.md)
+- [252 扇状地と三角州：土砂が作る地形と人の暮らし](./articles/252-alluvial-fan-delta.md)
+- [253 褶曲と断層：山脈はどうやってできるか](./articles/253-fold-fault-mountains.md)
+- [254 侵食と風化：岩が砂になるまで](./articles/254-erosion-weathering.md)
+- [255 カルスト地形：石灰岩が作る洞窟と鍾乳石](./articles/255-karst-caves.md)
+- [256 土の色と地質：赤土・黒土・白い大地の正体](./articles/256-soil-color-geology.md)
+
+### 🏘 集落・都市の立地
+- [257 なぜ町はそこにできたか：立地の五つの条件](./articles/257-settlement-location.md)
+- [258 城の立地学：要害・水・見通しのせめぎ合い](./articles/258-castle-siting.md)
+- [259 道が町を作る：交易路・宿場・峠の力学](./articles/259-roads-make-towns.md)
+- [260 広場と中心：教会・市場・井戸が街の核になる](./articles/260-plaza-center.md)
+- [261 城下町の迷路：防御が生んだ曲がり角](./articles/261-castle-town-maze.md)
+- [262 港町の宿命：地形が決める交易の要衝](./articles/262-port-towns.md)
+
+### 🏛 建築の背景ロジック
+- [263 屋根の傾きは気候が決める：雪国・雨国・乾燥地](./articles/263-roof-pitch-climate.md)
+- [264 その土地の材料が建築を決める（ヴァナキュラー建築）](./articles/264-vernacular-materials.md)
+- [265 白い壁の理由：暑さ・光・衛生](./articles/265-white-walls.md)
+- [266 窓の大きさと文化：光・防御・税金](./articles/266-windows-culture.md)
+- [267 街並みの高さと密度：なぜ揃うのか](./articles/267-skyline-height.md)
+- [268 廃墟になる過程：自然が建物を取り戻す順番](./articles/268-ruins-decay.md)
+
+### 🌾 世界に生命を吹き込む細部
+- [269 農地のパターン：棚田・囲い込み・輪作が描く風景の地紋](./articles/269-farmland-patterns.md)
+- [270 水を運ぶ技術：用水路・水道橋・井戸が集落の形を決める](./articles/270-water-infrastructure.md)
+- [271 光と時間の演出：同じ場所が朝夕・季節で別の顔を見せる](./articles/271-light-and-time.md)
+- [272 サウンドスケープ：世界は音でできている](./articles/272-soundscape.md)
+- [273 獣道と生態系：動物の痕跡が世界を「生きている」ものにする](./articles/273-animal-trails-ecosystem.md)
+- [274 境界のデザイン：塀・生垣・里山が語る人と自然の距離](./articles/274-boundaries-design.md)
 
 ---
 
